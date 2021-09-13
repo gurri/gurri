@@ -9,12 +9,12 @@ MS Data Science at University at Buffalo, State University of New York
 
 - 💬 Ask me about ...
 
-Getting Started with Data Science
-EDA
-Marketing Analytics
-Game Analytics
-Statistical Modelling and Data Mining
-Scraping web data using Selenium
+1. Getting Started with Data Science
+2. EDA
+3. Marketing Analytics
+4. Game Analytics
+5. Statistical Modelling and Data Mining
+6. Scraping web data using Selenium
 
 
 
